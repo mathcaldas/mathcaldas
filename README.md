@@ -6,8 +6,8 @@
 - ⚡ Fun fact **I love ducks**
 
 <p align="center" float="left">
-  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/duck-dance.gif?raw=true" width="200" />
-  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/rainbow.gif?raw=true" width="200" /> 
+  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/duck-dance.gif?raw=true" width="70" />
+  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/rainbow.gif?raw=true" width="70" /> 
 </p>
 
 <h3 align="left">Connect with me:</h3>

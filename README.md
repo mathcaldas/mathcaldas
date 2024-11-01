@@ -1,14 +1,15 @@
-<img src="https://github.com/mathcaldas/mathcaldas/blob/main/aqua-slushy-slime.gif?raw=true" width="200"> <h1 align="center">Hey, I'm Matheus</h1>  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/duck-waddling.gif?raw=true" width="150"> </h1>
+<p align="center" float="left">
+ <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/rainbow.gif?raw=true" width="70" /> 
+  <h1 align="center">Hey, I'm Matheus</h1>  
+  <p align="center" float="left">
+  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/duck-waddling.gif?raw=true" width="150">
+  </p>
+    </p>
 <h3 align="center">I’m study Information Systems at IFES.</h3>
 
 - 🌱 I’m currently learning **Programing and game development**
 
 - ⚡ Fun fact **I love ducks**
-
-<p align="center" float="left">
-  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/duck-dance.gif?raw=true" width="70" />
-  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/rainbow.gif?raw=true" width="70" /> 
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

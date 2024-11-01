@@ -2,7 +2,7 @@
  <img src= "https://github.com/mathcaldas/mathcaldas/blob/main/rainbow.gif?raw=true" width="70" /> 
   <h1 align="center">Hey, I'm Matheus</h1>  
   <p align="center" float="left">
-  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/duck-waddling.gif?raw=true" width="150">
+  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/duck-waddling.gif?raw=true" width="70">
   </p>
     </p>
 <h3 align="center">I’m study Information Systems at IFES.</h3>

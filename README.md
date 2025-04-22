@@ -1,7 +1,7 @@
 <!-- Perfil README mais limpo e organizado -->
 
 <p align="center">
-  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/rainbow.gif?raw=true" width="70" />
+  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/welcome.gif?raw=true" width="70" />
 </p>
 
 <h1 align="center">Hey, I'm Matheus</h1>

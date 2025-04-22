@@ -1,7 +1,5 @@
-<!-- Perfil README mais limpo e organizado -->
-
 <p align="center">
-  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/welcome.gif?raw=true" width="70" />
+  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/welcome.gif?raw=true" width="500" />
 </p>
 
 <h1 align="center">Hey, I'm Matheus</h1>
@@ -10,9 +8,12 @@
   <img src="https://github.com/mathcaldas/mathcaldas/blob/main/duck-waddling.gif?raw=true" width="70" />
 </p>
 
-<h3 align="center">I study Information Systems at IFES</h3>
+<h3 align="center">Information Systems student at IFES 🎓</h3>
 
-<p align="center">🌱 I’m currently learning <strong>Programming and Game Development</strong></p>
+<p align="center">
+  👨‍💻 Currently diving into <strong>Machine Learning</strong>, especially <strong>Computer Vision</strong><br>
+  🎮 Dreaming big: I want to become a <strong>Game Developer</strong>
+</p>
 
 ---
 
@@ -55,9 +56,14 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathcaldas&show_icons=true&locale=en" alt="GitHub Stats" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathcaldas&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathcaldas" alt="GitHub Streak" width="300" />
+</p>
+
+<br><br>
+<p align="center">
+  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/Duckyouare.gif?raw=true" width="400" alt="Duck Footer GIF" />
 </p>

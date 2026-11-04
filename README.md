@@ -1,63 +1,38 @@
 <p align="center">
-  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/welcome.gif?raw=true" width="500" />
+  <img src="welcome.gif" width="420" alt="Welcome" />
 </p>
 
-<h1 align="center">Hey, I'm Matheus</h1>
+<h1 align="center">Hey, I'm Matheus <img src="duck-waddling.gif" width="45" alt="duck" /></h1>
 
 <p align="center">
-  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/duck-waddling.gif?raw=true" width="70" />
+  Information Systems graduate from <b>IFES</b><br>
+  <b>Data Scientist</b> focused on <b>Computer Vision</b><br>
+  Dreaming big: I want to become a <b>Game Developer</b>
 </p>
-
-<h3 align="center">Information Systems student at IFES 🎓</h3>
 
 <p align="center">
-  👨‍💻 Currently diving into <strong>Machine Learning</strong>, especially <strong>Computer Vision</strong><br>
-  🎮 Dreaming big: I want to become a <strong>Game Developer</strong>
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/matheus_sc19" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus_sc19" height="30" width="40" />
+  <a href="https://instagram.com/matheus_sc19">
+    <img src="https://img.shields.io/badge/Instagram-@matheus__sc19-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-</p>
+### What I do
 
----
+I teach machines to see: **classification**, **segmentation**, **detection** and **OCR**.
+I cover the whole MLOps loop, from preparing the data to testing and deploying the model.
+Deep learning all the way: PyTorch/torchvision, Ultralytics YOLO, ResNet, VGG and friends.
 
-<h3 align="left">My GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathcaldas&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" />
-</p>
+### Languages & Tools
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathcaldas&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cs,unity,java" alt="Python, PyTorch, C#, Unity, Java" />
 </p>
-
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathcaldas" alt="GitHub Streak" width="300" />
+  <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white" alt="Ultralytics" />
 </p>
 
-<br><br>
 <p align="center">
-  <img src="https://github.com/mathcaldas/mathcaldas/blob/main/Duckyouare.gif?raw=true" width="400" alt="Duck Footer GIF" />
+  <img src="Duckyouare.gif" width="300" alt="Duck you are" />
 </p>
